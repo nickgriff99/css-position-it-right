@@ -39,23 +39,23 @@ This assignment should prove that a student is able to:
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [x] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] The project's file/folder structure should NOT be edited!
-- [ ] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
-- [ ] VSCode IDE MUST have 0 problems listed
-- [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
-- [ ] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x] All the tasks of the "Specific requirements" section MUST be solved
+- [x] The project's file/folder structure should NOT be edited!
+- [x] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
+- [x] VSCode IDE MUST have 0 problems listed
+- [x] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
+- [x] The code MUST be formatted with Prettier.
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
 `For the Robot Face exercise:`
 
 - [x] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
-- [ ] Edit the following files to solve that part of the assignemnt:
-  - [ ] html: `/pages/fancy-robot.html`
-  - [ ] css: `/css/fancy-robot.css`
+- [x] Edit the following files to solve that part of the assignemnt:
+  - [x] html: `/pages/fancy-robot.html`
+  - [x] css: `/css/fancy-robot.css`
 - [x] The container for the robot face (face shape) should be positioned/aligned folowing the rules:
   - [x] It should be horizontally centered to the viewport width and height.
   - [x] The container should not overlap the header section.
@@ -89,18 +89,18 @@ This assignment should prove that a student is able to:
   - [x] At least one shape should have a background image that fits the shape and doesn't overflow it, using images from [Lorem Picsum](https://picsum.photos/) or any other images CDN service.
   - [x] The width and / or height height of at least one shape should be based on the percentage units relative to the dimensions of the face shape.
   - [x] The width and / or height of at least one shape should be based on relative units relative to the font size.
-  - [ ] At least one shape should have an opacity of 50% or be semi-transparent.
-- [ ] Position the shapes inside or outside the face shape according to the following guidelines:
-  - [ ] In-face elements should be positioned in relation to their static position.
-  - [ ] External face shapes should be positioned in relation to the robot container or the face shape.
+  - [x] At least one shape should have an opacity of 50% or be semi-transparent.
+- [x] Position the shapes inside or outside the face shape according to the following guidelines:
+  - [x] In-face elements should be positioned in relation to their static position.
+  - [x] External face shapes should be positioned in relation to the robot container or the face shape.
 
 `For the Legal Page exercise`
 
-- [ ] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
-- [ ] Edit the following files to solve that part of the assignemnt:
-  - [ ] html: `/pages/legal-page.html`
-  - [ ] css: `/css/legal-page.css`
-- [ ] The page heading container should be "pinned" in the top right beneath the herader and take the full width of the viewport, regardless of how far the user scrolls down the page content.
-- [ ] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
-- [ ] The section label should stay fixed in its parent while the user is scrolling through the current section.
-- [ ] The content should not get obscured by any of the containers at the top and bottom of the page.
+- [x] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
+- [x] Edit the following files to solve that part of the assignemnt:
+  - [x] html: `/pages/legal-page.html`
+  - [x] css: `/css/legal-page.css`
+- [x] The page heading container should be "pinned" in the top right beneath the herader and take the full width of the viewport, regardless of how far the user scrolls down the page content.
+- [x] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
+- [x] The section label should stay fixed in its parent while the user is scrolling through the current section.
+- [x] The content should not get obscured by any of the containers at the top and bottom of the page.
