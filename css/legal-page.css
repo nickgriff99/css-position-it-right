@@ -1,17 +1,28 @@
+.top-nav {
+  position: sticky;
+  height: 30px;
+  z-index: 101;
+}
+
 .legal-header {
-  background-color: #e2e2e2;
+  background: #e2e2e2;
   padding: 30px;
   margin-top: 60px;
   width: 100%;
+  position: fixed;
+  z-index: 100;
 }
 
 .legal-header h1 {
   width: 100%;
   max-width: 900px;
   margin: 0 auto;
+  z-index: 99;
 }
 
 main {
+  margin-top: 157px;
+  flex-grow: 1;
 }
 
 section {
@@ -23,6 +34,7 @@ section {
   max-width: 900px;
   margin: 0 auto;
   color: white;
+  z-index: 1;
 }
 
 .section-label {
@@ -30,6 +42,14 @@ section {
   background-color: #2b2d3b;
   height: max-content;
   padding: 10px 16px;
+  position: sticky;
+  top: 187px;
+  z-index: 1;
+}
+
+h2 {
+  font-weight: 100;
+  font-size: 18px;
 }
 
 .document-content {
@@ -59,6 +79,9 @@ footer {
   background-color: #e2e2e2;
   padding: 0 30px;
   min-height: 70px;
+  position: sticky;
+  bottom: 0;
+  z-index: 102;
 }
 
 .footer-content {
